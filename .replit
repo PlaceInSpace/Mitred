@@ -1,0 +1,1 @@
+run="gcc main.c && ./a.out bane.ha"
